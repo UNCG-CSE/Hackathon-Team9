@@ -1,5 +1,5 @@
 ### Green Fund Hack-a-thon 
-## UNCG Energy Consumption 
+## ⚡️⚡️⚡️⚡️⚡️⚡️ UNCG Energy Consumption ⚡️⚡️⚡️⚡️⚡️⚡️
 Content of this file 
 ----------------------
   * Hacaton Documentation
