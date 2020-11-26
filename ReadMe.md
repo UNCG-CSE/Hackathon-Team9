@@ -3,7 +3,7 @@
 
 Content of this file 
 ----------------------
-[] Hacaton Documentation
-[] data
-[] src
-[] images 
+  [x] Hacaton Documentation
+  [ ] data
+  [ ] src
+  [ ] images 
