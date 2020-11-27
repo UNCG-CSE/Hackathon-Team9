@@ -8,7 +8,7 @@ Content of this file
   * images 
   
 Overview
-------------
+----------------------
 
   The purpose of this Hack-a-thon is to develop an interactive dashboard to summarize high- frequency energy consumption data in 81 electricity meters on UNCG’s campus. These meters represent power utilization of various buildings across UNCG and will help the university understand the requirements and usage of energy consumption and efficiency across the campus.
   
